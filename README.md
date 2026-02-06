@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Omar Saeed
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mahmoud%20Ahmed&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20Saeed&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
 ![Profile Banner](https://img.shields.io/badge/Frontend-Angular-blue?logo=angular&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-green)
