@@ -43,29 +43,10 @@ I’m currently seeking opportunities to **grow my skills**, work on **real-worl
 
 ---
 
-## 📊 GitHub Stats
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-## 👀 Profile Views
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
-
-
----
-
-## Portfolio Projects 🔥
-> Check out some of my Angular projects:
-- [Project Name 1](#) – Brief description
-- [Project Name 2](#) – Brief description
-- [Project Name 3](#) – Brief description  
-
-*(Replace with actual project links if available)*
-
----
-
 ## Contact Me 📬
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- Email: [your.email@example.com](mailto:omareliawa2024@gmail.com)  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/omareliawa)  
+- GitHub: [github.com/yourusername](https://github.com/omareliawa24)  
 
 ---
 
