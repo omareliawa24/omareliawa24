@@ -15,12 +15,40 @@ I’m currently seeking opportunities to **grow my skills**, work on **real-worl
 
 ---
 
-## Skills & Technologies 💻
-- **Frontend:** Angular, HTML5, CSS3, SCSS, JavaScript/TypeScript
-- **State Management:** RxJS, NgRx (optional)
-- **UI/UX:** Responsive Design, Animations, Material Design
-- **Tools:** Git, GitHub, VS Code, npm
-- **Other:** REST APIs, Angular Router, Modular Architecture
+## ⚡ Technologies
+
+### 🅰️ Frontend (Angular)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+### 🎨 UI / UX
+![Angular Material](https://img.shields.io/badge/Angular%20Material-757575?style=flat-square&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-000000?style=flat-square)
+
+### 🔄 State & Data
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+---
+
+## 📊 GitHub Stats
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+## 👀 Profile Views
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+
 
 ---
 
