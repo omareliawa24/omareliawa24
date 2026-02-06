@@ -1,11 +1,9 @@
 # Hi there 👋, I'm Omar Saeed
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20Saeed&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20|%20Angular%20Specialist%20|%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
-
 ![Profile Banner](https://img.shields.io/badge/Frontend-Angular-blue?logo=angular&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-green)
 ![Location](https://img.shields.io/badge/Location-Saudi%20Arabia-orange)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20Saeed&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20|%20Angular%20Specialist%20|%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 ---
 
