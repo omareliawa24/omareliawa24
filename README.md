@@ -44,9 +44,9 @@ I’m currently seeking opportunities to **grow my skills**, work on **real-worl
 ---
 
 ## Contact Me 📬
-- Email: [your.email@example.com](mailto:omareliawa2024@gmail.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/omareliawa)  
-- GitHub: [github.com/yourusername](https://github.com/omareliawa24)  
+- Email: [omareliawa2024@gmail.com](mailto:omareliawa2024@gmail.com)  
+- LinkedIn: [linkedin.com/in/omareliawa](https://linkedin.com/in/omareliawa)  
+- GitHub: [github.com/omareliawa24](https://github.com/omareliawa24)  
 
 ---
 
