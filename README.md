@@ -8,7 +8,7 @@
 ---
 
 ## About Me
-I’m **Omar Saeed**, a passionate **Frontend Developer** specializing in **Angular**.  
+I’m **Omar Saeed**, a passionate **Full Stack Developer** specializing in **.NET Developer** And **Angular**.  
 I love creating **clean, dynamic, and responsive user interfaces** that provide smooth user experiences.  
 
 I’m currently seeking opportunities to **grow my skills**, work on **real-world projects**, and **contribute to impactful applications**.  
